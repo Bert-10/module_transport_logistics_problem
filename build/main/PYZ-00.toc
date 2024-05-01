@@ -1,0 +1,3593 @@
+('E:\\Папка рабочего '
+ 'стола\\pyCharmProjects\\connect_solver_by_pulp\\build\\main\\PYZ-00.pyz',
+ [('__future__',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_bootsubprocess',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_bootsubprocess.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyi_rth_utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('et_xmlfile',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\et_xmlfile\\__init__.py',
+   'PYMODULE'),
+  ('et_xmlfile.xmlfile',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\et_xmlfile\\xmlfile.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('html',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('imp',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\imp.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._convertions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_utils\\_convertions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.array_api',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\__init__.py',
+   'PYMODULE'),
+  ('numpy.array_api._array_object',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_array_object.py',
+   'PYMODULE'),
+  ('numpy.array_api._constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_constants.py',
+   'PYMODULE'),
+  ('numpy.array_api._creation_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_creation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._data_type_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_data_type_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._dtypes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_dtypes.py',
+   'PYMODULE'),
+  ('numpy.array_api._elementwise_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_elementwise_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._indexing_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_indexing_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._manipulation_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_manipulation_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._searching_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_searching_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._set_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_set_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._sorting_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_sorting_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._statistical_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_statistical_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api._typing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_typing.py',
+   'PYMODULE'),
+  ('numpy.array_api._utility_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\_utility_functions.py',
+   'PYMODULE'),
+  ('numpy.array_api.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\array_api\\linalg.py',
+   'PYMODULE'),
+  ('numpy.compat',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\compat\\__init__.py',
+   'PYMODULE'),
+  ('numpy.compat.py3k',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\compat\\py3k.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy.core._add_newdocs_scalars',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy.core._asarray',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy.core._dtype',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy.core._exceptions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy.core._internal',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_internal.py',
+   'PYMODULE'),
+  ('numpy.core._machar',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_machar.py',
+   'PYMODULE'),
+  ('numpy.core._methods',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_methods.py',
+   'PYMODULE'),
+  ('numpy.core._string_helpers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy.core._type_aliases',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy.core._ufunc_config',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy.core.arrayprint',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy.core.defchararray',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy.core.einsumfunc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy.core.fromnumeric',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy.core.function_base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\function_base.py',
+   'PYMODULE'),
+  ('numpy.core.getlimits',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy.core.memmap',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\memmap.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.core.numeric',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\numeric.py',
+   'PYMODULE'),
+  ('numpy.core.numerictypes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy.core.overrides',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\overrides.py',
+   'PYMODULE'),
+  ('numpy.core.records',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\records.py',
+   'PYMODULE'),
+  ('numpy.core.shape_base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.core.umath',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\core\\umath.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.fft.helper',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\fft\\helper.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.arraypad',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\arraypad.py',
+   'PYMODULE'),
+  ('numpy.lib.arraysetops',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\arraysetops.py',
+   'PYMODULE'),
+  ('numpy.lib.arrayterator',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\arrayterator.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.function_base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\function_base.py',
+   'PYMODULE'),
+  ('numpy.lib.histograms',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\histograms.py',
+   'PYMODULE'),
+  ('numpy.lib.index_tricks',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\index_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.nanfunctions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\nanfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.polynomial',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.shape_base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\shape_base.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.lib.twodim_base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\twodim_base.py',
+   'PYMODULE'),
+  ('numpy.lib.type_check',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\type_check.py',
+   'PYMODULE'),
+  ('numpy.lib.ufunclike',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\ufunclike.py',
+   'PYMODULE'),
+  ('numpy.lib.utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\lib\\utils.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\linalg\\linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('openpyxl',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl._constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\_constants.py',
+   'PYMODULE'),
+  ('openpyxl.cell',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\cell\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.cell._writer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\cell\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.cell.cell',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\cell\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.cell.read_only',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\cell\\read_only.py',
+   'PYMODULE'),
+  ('openpyxl.cell.rich_text',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\cell\\rich_text.py',
+   'PYMODULE'),
+  ('openpyxl.cell.text',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\cell\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chart._3d',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\_3d.py',
+   'PYMODULE'),
+  ('openpyxl.chart._chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.area_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\area_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.axis',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\axis.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bar_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\bar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.bubble_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\bubble_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.chartspace',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\chartspace.py',
+   'PYMODULE'),
+  ('openpyxl.chart.data_source',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\data_source.py',
+   'PYMODULE'),
+  ('openpyxl.chart.descriptors',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\descriptors.py',
+   'PYMODULE'),
+  ('openpyxl.chart.error_bar',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\error_bar.py',
+   'PYMODULE'),
+  ('openpyxl.chart.label',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\label.py',
+   'PYMODULE'),
+  ('openpyxl.chart.layout',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\layout.py',
+   'PYMODULE'),
+  ('openpyxl.chart.legend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\legend.py',
+   'PYMODULE'),
+  ('openpyxl.chart.line_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\line_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.marker',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\marker.py',
+   'PYMODULE'),
+  ('openpyxl.chart.picture',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pie_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\pie_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.pivot',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\pivot.py',
+   'PYMODULE'),
+  ('openpyxl.chart.plotarea',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\plotarea.py',
+   'PYMODULE'),
+  ('openpyxl.chart.print_settings',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.chart.radar_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\radar_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reader',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\reader.py',
+   'PYMODULE'),
+  ('openpyxl.chart.reference',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\reference.py',
+   'PYMODULE'),
+  ('openpyxl.chart.scatter_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\scatter_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\series.py',
+   'PYMODULE'),
+  ('openpyxl.chart.series_factory',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\series_factory.py',
+   'PYMODULE'),
+  ('openpyxl.chart.shapes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\shapes.py',
+   'PYMODULE'),
+  ('openpyxl.chart.stock_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\stock_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.surface_chart',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\surface_chart.py',
+   'PYMODULE'),
+  ('openpyxl.chart.text',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\text.py',
+   'PYMODULE'),
+  ('openpyxl.chart.title',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\title.py',
+   'PYMODULE'),
+  ('openpyxl.chart.trendline',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\trendline.py',
+   'PYMODULE'),
+  ('openpyxl.chart.updown_bars',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chart\\updown_bars.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.chartsheet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\chartsheet.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.custom',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.properties',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.protection',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.publish',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\publish.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.relation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.chartsheet.views',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\chartsheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.comments',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\comments\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.comments.author',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\comments\\author.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comment_sheet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\comments\\comment_sheet.py',
+   'PYMODULE'),
+  ('openpyxl.comments.comments',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\comments\\comments.py',
+   'PYMODULE'),
+  ('openpyxl.comments.shape_writer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\comments\\shape_writer.py',
+   'PYMODULE'),
+  ('openpyxl.compat',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\compat\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.compat.numbers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\compat\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.compat.strings',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\compat\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\base.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.excel',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.namespace',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\namespace.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.nested',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\nested.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.sequence',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\sequence.py',
+   'PYMODULE'),
+  ('openpyxl.descriptors.serialisable',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\descriptors\\serialisable.py',
+   'PYMODULE'),
+  ('openpyxl.drawing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.colors',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.connector',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\connector.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.drawing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.effect',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\effect.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.fill',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\fill.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.geometry',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\geometry.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.graphic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\graphic.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.image',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\image.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.line',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\line.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.picture',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\picture.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.properties',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.relation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\relation.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.spreadsheet_drawing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\spreadsheet_drawing.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.text',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\text.py',
+   'PYMODULE'),
+  ('openpyxl.drawing.xdr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\drawing\\xdr.py',
+   'PYMODULE'),
+  ('openpyxl.formatting',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\formatting\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.formatting',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\formatting\\formatting.py',
+   'PYMODULE'),
+  ('openpyxl.formatting.rule',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\formatting\\rule.py',
+   'PYMODULE'),
+  ('openpyxl.formula',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\formula\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.formula.tokenizer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\formula\\tokenizer.py',
+   'PYMODULE'),
+  ('openpyxl.formula.translate',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\formula\\translate.py',
+   'PYMODULE'),
+  ('openpyxl.packaging',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.core',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\core.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.custom',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\custom.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.extended',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\extended.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.manifest',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\manifest.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.relationship',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\relationship.py',
+   'PYMODULE'),
+  ('openpyxl.packaging.workbook',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\packaging\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.pivot',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\pivot\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.cache',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\pivot\\cache.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.fields',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\pivot\\fields.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.record',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\pivot\\record.py',
+   'PYMODULE'),
+  ('openpyxl.pivot.table',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\pivot\\table.py',
+   'PYMODULE'),
+  ('openpyxl.reader',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\reader\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.reader.drawings',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\reader\\drawings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.excel',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\reader\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.reader.strings',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\reader\\strings.py',
+   'PYMODULE'),
+  ('openpyxl.reader.workbook',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\reader\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.styles',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.styles.alignment',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\alignment.py',
+   'PYMODULE'),
+  ('openpyxl.styles.borders',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\borders.py',
+   'PYMODULE'),
+  ('openpyxl.styles.builtins',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\builtins.py',
+   'PYMODULE'),
+  ('openpyxl.styles.cell_style',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\cell_style.py',
+   'PYMODULE'),
+  ('openpyxl.styles.colors',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\colors.py',
+   'PYMODULE'),
+  ('openpyxl.styles.differential',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\differential.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fills',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\fills.py',
+   'PYMODULE'),
+  ('openpyxl.styles.fonts',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\fonts.py',
+   'PYMODULE'),
+  ('openpyxl.styles.named_styles',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\named_styles.py',
+   'PYMODULE'),
+  ('openpyxl.styles.numbers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\numbers.py',
+   'PYMODULE'),
+  ('openpyxl.styles.protection',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.styles.proxy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\proxy.py',
+   'PYMODULE'),
+  ('openpyxl.styles.styleable',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\styleable.py',
+   'PYMODULE'),
+  ('openpyxl.styles.stylesheet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\stylesheet.py',
+   'PYMODULE'),
+  ('openpyxl.styles.table',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\styles\\table.py',
+   'PYMODULE'),
+  ('openpyxl.utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.utils.bound_dictionary',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\bound_dictionary.py',
+   'PYMODULE'),
+  ('openpyxl.utils.cell',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\cell.py',
+   'PYMODULE'),
+  ('openpyxl.utils.datetime',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\datetime.py',
+   'PYMODULE'),
+  ('openpyxl.utils.escape',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\escape.py',
+   'PYMODULE'),
+  ('openpyxl.utils.exceptions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\exceptions.py',
+   'PYMODULE'),
+  ('openpyxl.utils.formulas',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\formulas.py',
+   'PYMODULE'),
+  ('openpyxl.utils.indexed_list',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\indexed_list.py',
+   'PYMODULE'),
+  ('openpyxl.utils.protection',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.utils.units',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\utils\\units.py',
+   'PYMODULE'),
+  ('openpyxl.workbook',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook._writer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.child',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\child.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.defined_name',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\defined_name.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_link.external',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\external_link\\external.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.external_reference',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\external_reference.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.function_group',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\function_group.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.properties',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.protection',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.smart_tags',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\smart_tags.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.views',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\views.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.web',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\web.py',
+   'PYMODULE'),
+  ('openpyxl.workbook.workbook',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\workbook\\workbook.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._read_only',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_read_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._reader',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_reader.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._write_only',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_write_only.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet._writer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\_writer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.cell_range',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\cell_range.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.copier',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\copier.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.datavalidation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\datavalidation.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.dimensions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\dimensions.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.drawing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\drawing.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.filters',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\filters.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.formula',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\formula.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.header_footer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\header_footer.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.hyperlink',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\hyperlink.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.merge',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\merge.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.page',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\page.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.pagebreak',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\pagebreak.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.print_settings',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\print_settings.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.properties',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\properties.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.protection',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\protection.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.related',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\related.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.scenario',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\scenario.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.table',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\table.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.views',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\views.py',
+   'PYMODULE'),
+  ('openpyxl.worksheet.worksheet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\worksheet\\worksheet.py',
+   'PYMODULE'),
+  ('openpyxl.writer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\writer\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.writer.excel',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\writer\\excel.py',
+   'PYMODULE'),
+  ('openpyxl.writer.theme',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\writer\\theme.py',
+   'PYMODULE'),
+  ('openpyxl.xml',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\xml\\__init__.py',
+   'PYMODULE'),
+  ('openpyxl.xml.constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\xml\\constants.py',
+   'PYMODULE'),
+  ('openpyxl.xml.functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\openpyxl\\xml\\functions.py',
+   'PYMODULE'),
+  ('packaging',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pathlib.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._compat',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._itertools',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._legacy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.abc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\abc.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.simple',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.actions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\actions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.core',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.results',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.testing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.util',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.zipp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\plistlib.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\random.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('scipy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\__init__.py',
+   'PYMODULE'),
+  ('scipy.__config__',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\__config__.py',
+   'PYMODULE'),
+  ('scipy._distributor_init',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_distributor_init.py',
+   'PYMODULE'),
+  ('scipy._lib',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._array_api',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_array_api.py',
+   'PYMODULE'),
+  ('scipy._lib._bunch',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_bunch.py',
+   'PYMODULE'),
+  ('scipy._lib._ccallback',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_ccallback.py',
+   'PYMODULE'),
+  ('scipy._lib._docscrape',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_docscrape.py',
+   'PYMODULE'),
+  ('scipy._lib._finite_differences',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_finite_differences.py',
+   'PYMODULE'),
+  ('scipy._lib._pep440',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_pep440.py',
+   'PYMODULE'),
+  ('scipy._lib._testutils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_testutils.py',
+   'PYMODULE'),
+  ('scipy._lib._threadsafety',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_threadsafety.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_uarray\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib._uarray._backend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_uarray\\_backend.py',
+   'PYMODULE'),
+  ('scipy._lib._util',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\_util.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat', '-', 'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat._internal',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\_internal.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\common\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.common._aliases',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\common\\_aliases.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.common._helpers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\common\\_helpers.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.common._linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\common\\_linalg.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.common._typing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\common\\_typing.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.cupy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\cupy\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.cupy._aliases',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\cupy\\_aliases.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.cupy.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\cupy\\linalg.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.numpy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.numpy._aliases',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\numpy\\_aliases.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.numpy.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\numpy\\linalg.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.torch',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\torch\\__init__.py',
+   'PYMODULE'),
+  ('scipy._lib.array_api_compat.array_api_compat.torch._aliases',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\array_api_compat\\array_api_compat\\torch\\_aliases.py',
+   'PYMODULE'),
+  ('scipy._lib.decorator',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\decorator.py',
+   'PYMODULE'),
+  ('scipy._lib.deprecation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\deprecation.py',
+   'PYMODULE'),
+  ('scipy._lib.doccer',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\doccer.py',
+   'PYMODULE'),
+  ('scipy._lib.uarray',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\_lib\\uarray.py',
+   'PYMODULE'),
+  ('scipy.constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\constants\\__init__.py',
+   'PYMODULE'),
+  ('scipy.constants._codata',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\constants\\_codata.py',
+   'PYMODULE'),
+  ('scipy.constants._constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\constants\\_constants.py',
+   'PYMODULE'),
+  ('scipy.constants.codata',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\constants\\codata.py',
+   'PYMODULE'),
+  ('scipy.constants.constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\constants\\constants.py',
+   'PYMODULE'),
+  ('scipy.fft',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._backend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_backend.py',
+   'PYMODULE'),
+  ('scipy.fft._basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_basic.py',
+   'PYMODULE'),
+  ('scipy.fft._basic_backend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_basic_backend.py',
+   'PYMODULE'),
+  ('scipy.fft._fftlog',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_fftlog.py',
+   'PYMODULE'),
+  ('scipy.fft._fftlog_backend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_fftlog_backend.py',
+   'PYMODULE'),
+  ('scipy.fft._helper',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\__init__.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\basic.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.helper',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\helper.py',
+   'PYMODULE'),
+  ('scipy.fft._pocketfft.realtransforms',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._realtransforms',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_realtransforms.py',
+   'PYMODULE'),
+  ('scipy.fft._realtransforms_backend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\fft\\_realtransforms_backend.py',
+   'PYMODULE'),
+  ('scipy.integrate',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._bvp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_bvp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\__init__.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\base.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.bdf',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\bdf.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\common.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.dop853_coefficients',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\dop853_coefficients.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.ivp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\ivp.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.lsoda',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\lsoda.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.radau',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\radau.py',
+   'PYMODULE'),
+  ('scipy.integrate._ivp.rk',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ivp\\rk.py',
+   'PYMODULE'),
+  ('scipy.integrate._ode',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_ode.py',
+   'PYMODULE'),
+  ('scipy.integrate._odepack_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_odepack_py.py',
+   'PYMODULE'),
+  ('scipy.integrate._quad_vec',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_quad_vec.py',
+   'PYMODULE'),
+  ('scipy.integrate._quadpack_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_quadpack_py.py',
+   'PYMODULE'),
+  ('scipy.integrate._quadrature',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\_quadrature.py',
+   'PYMODULE'),
+  ('scipy.integrate.dop',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\dop.py',
+   'PYMODULE'),
+  ('scipy.integrate.lsoda',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\lsoda.py',
+   'PYMODULE'),
+  ('scipy.integrate.odepack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\odepack.py',
+   'PYMODULE'),
+  ('scipy.integrate.quadpack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\quadpack.py',
+   'PYMODULE'),
+  ('scipy.integrate.vode',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\integrate\\vode.py',
+   'PYMODULE'),
+  ('scipy.interpolate',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\__init__.py',
+   'PYMODULE'),
+  ('scipy.interpolate._bsplines',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_bsplines.py',
+   'PYMODULE'),
+  ('scipy.interpolate._cubic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_cubic.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack2',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_fitpack2.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack_impl',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_fitpack_impl.py',
+   'PYMODULE'),
+  ('scipy.interpolate._fitpack_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_fitpack_py.py',
+   'PYMODULE'),
+  ('scipy.interpolate._interpolate',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_interpolate.py',
+   'PYMODULE'),
+  ('scipy.interpolate._ndbspline',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_ndbspline.py',
+   'PYMODULE'),
+  ('scipy.interpolate._ndgriddata',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_ndgriddata.py',
+   'PYMODULE'),
+  ('scipy.interpolate._pade',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_pade.py',
+   'PYMODULE'),
+  ('scipy.interpolate._polyint',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_polyint.py',
+   'PYMODULE'),
+  ('scipy.interpolate._rbf',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_rbf.py',
+   'PYMODULE'),
+  ('scipy.interpolate._rbfinterp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_rbfinterp.py',
+   'PYMODULE'),
+  ('scipy.interpolate._rgi',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\_rgi.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\fitpack.py',
+   'PYMODULE'),
+  ('scipy.interpolate.fitpack2',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\fitpack2.py',
+   'PYMODULE'),
+  ('scipy.interpolate.interpolate',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\interpolate.py',
+   'PYMODULE'),
+  ('scipy.interpolate.ndgriddata',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\ndgriddata.py',
+   'PYMODULE'),
+  ('scipy.interpolate.polyint',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\polyint.py',
+   'PYMODULE'),
+  ('scipy.interpolate.rbf',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\interpolate\\rbf.py',
+   'PYMODULE'),
+  ('scipy.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.linalg._basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_basic.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_cholesky',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_cholesky.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_cossin',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_cossin.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_ldl',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_ldl.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_lu',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_lu.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_polar',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_polar.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_qr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_qr.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_qz',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_qz.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_schur',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_schur.py',
+   'PYMODULE'),
+  ('scipy.linalg._decomp_svd',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_svd.py',
+   'PYMODULE'),
+  ('scipy.linalg._expm_frechet',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_expm_frechet.py',
+   'PYMODULE'),
+  ('scipy.linalg._flinalg_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_flinalg_py.py',
+   'PYMODULE'),
+  ('scipy.linalg._interpolative_backend',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_interpolative_backend.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_inv_ssq',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_inv_ssq.py',
+   'PYMODULE'),
+  ('scipy.linalg._matfuncs_sqrtm',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm.py',
+   'PYMODULE'),
+  ('scipy.linalg._misc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_misc.py',
+   'PYMODULE'),
+  ('scipy.linalg._procrustes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.linalg._sketches',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_sketches.py',
+   'PYMODULE'),
+  ('scipy.linalg._solvers',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_solvers.py',
+   'PYMODULE'),
+  ('scipy.linalg._special_matrices',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\_special_matrices.py',
+   'PYMODULE'),
+  ('scipy.linalg.basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\basic.py',
+   'PYMODULE'),
+  ('scipy.linalg.blas',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\blas.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_cholesky',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp_cholesky.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_lu',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp_lu.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_qr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp_qr.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_schur',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp_schur.py',
+   'PYMODULE'),
+  ('scipy.linalg.decomp_svd',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\decomp_svd.py',
+   'PYMODULE'),
+  ('scipy.linalg.flinalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\flinalg.py',
+   'PYMODULE'),
+  ('scipy.linalg.interpolative',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\interpolative.py',
+   'PYMODULE'),
+  ('scipy.linalg.lapack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\lapack.py',
+   'PYMODULE'),
+  ('scipy.linalg.matfuncs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.linalg.misc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\misc.py',
+   'PYMODULE'),
+  ('scipy.linalg.special_matrices',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\linalg\\special_matrices.py',
+   'PYMODULE'),
+  ('scipy.ndimage',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\__init__.py',
+   'PYMODULE'),
+  ('scipy.ndimage._filters',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_filters.py',
+   'PYMODULE'),
+  ('scipy.ndimage._fourier',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_fourier.py',
+   'PYMODULE'),
+  ('scipy.ndimage._interpolation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_interpolation.py',
+   'PYMODULE'),
+  ('scipy.ndimage._measurements',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_measurements.py',
+   'PYMODULE'),
+  ('scipy.ndimage._morphology',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_morphology.py',
+   'PYMODULE'),
+  ('scipy.ndimage._ni_docstrings',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_ni_docstrings.py',
+   'PYMODULE'),
+  ('scipy.ndimage._ni_support',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\_ni_support.py',
+   'PYMODULE'),
+  ('scipy.ndimage.filters',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\filters.py',
+   'PYMODULE'),
+  ('scipy.ndimage.fourier',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\fourier.py',
+   'PYMODULE'),
+  ('scipy.ndimage.interpolation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\interpolation.py',
+   'PYMODULE'),
+  ('scipy.ndimage.measurements',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\measurements.py',
+   'PYMODULE'),
+  ('scipy.ndimage.morphology',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\ndimage\\morphology.py',
+   'PYMODULE'),
+  ('scipy.optimize',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._basinhopping',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_basinhopping.py',
+   'PYMODULE'),
+  ('scipy.optimize._cobyla_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_cobyla_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._constraints',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_constraints.py',
+   'PYMODULE'),
+  ('scipy.optimize._dcsrch',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_dcsrch.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentiable_functions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_differentiable_functions.py',
+   'PYMODULE'),
+  ('scipy.optimize._differentialevolution',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_differentialevolution.py',
+   'PYMODULE'),
+  ('scipy.optimize._direct_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_direct_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._dual_annealing',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_dual_annealing.py',
+   'PYMODULE'),
+  ('scipy.optimize._hessian_update_strategy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_hessian_update_strategy.py',
+   'PYMODULE'),
+  ('scipy.optimize._highs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_highs\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._isotonic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_isotonic.py',
+   'PYMODULE'),
+  ('scipy.optimize._lbfgsb_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lbfgsb_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._linesearch',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linesearch.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_doc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog_doc.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_highs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog_highs.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_ip',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog_ip.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_rs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog_rs.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_simplex',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog_simplex.py',
+   'PYMODULE'),
+  ('scipy.optimize._linprog_util',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_linprog_util.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.bvls',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\bvls.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\common.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.dogbox',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\dogbox.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.least_squares',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\least_squares.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.lsq_linear',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\lsq_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\trf.py',
+   'PYMODULE'),
+  ('scipy.optimize._lsq.trf_linear',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\trf_linear.py',
+   'PYMODULE'),
+  ('scipy.optimize._milp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_milp.py',
+   'PYMODULE'),
+  ('scipy.optimize._minimize',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_minimize.py',
+   'PYMODULE'),
+  ('scipy.optimize._minpack_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_minpack_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._nnls',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_nnls.py',
+   'PYMODULE'),
+  ('scipy.optimize._nonlin',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_nonlin.py',
+   'PYMODULE'),
+  ('scipy.optimize._numdiff',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_numdiff.py',
+   'PYMODULE'),
+  ('scipy.optimize._optimize',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_optimize.py',
+   'PYMODULE'),
+  ('scipy.optimize._qap',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_qap.py',
+   'PYMODULE'),
+  ('scipy.optimize._remove_redundancy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_remove_redundancy.py',
+   'PYMODULE'),
+  ('scipy.optimize._root',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_root.py',
+   'PYMODULE'),
+  ('scipy.optimize._root_scalar',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_root_scalar.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_shgo.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_shgo_lib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib._complex',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_shgo_lib\\_complex.py',
+   'PYMODULE'),
+  ('scipy.optimize._shgo_lib._vertex',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_shgo_lib\\_vertex.py',
+   'PYMODULE'),
+  ('scipy.optimize._slsqp_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_slsqp_py.py',
+   'PYMODULE'),
+  ('scipy.optimize._spectral',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_spectral.py',
+   'PYMODULE'),
+  ('scipy.optimize._tnc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_tnc.py',
+   'PYMODULE'),
+  ('scipy.optimize._trlib',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trlib\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\__init__.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.canonical_constraint',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\canonical_constraint.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.equality_constrained_sqp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\equality_constrained_sqp.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.minimize_trustregion_constr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\minimize_trustregion_constr.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.projections',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\projections.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.qp_subproblem',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\qp_subproblem.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.report',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\report.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_constr.tr_interior_point',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_constr\\tr_interior_point.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_dogleg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_dogleg.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_exact',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_exact.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_krylov',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_krylov.py',
+   'PYMODULE'),
+  ('scipy.optimize._trustregion_ncg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_trustregion_ncg.py',
+   'PYMODULE'),
+  ('scipy.optimize._zeros_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\_zeros_py.py',
+   'PYMODULE'),
+  ('scipy.optimize.cobyla',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\cobyla.py',
+   'PYMODULE'),
+  ('scipy.optimize.lbfgsb',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\lbfgsb.py',
+   'PYMODULE'),
+  ('scipy.optimize.linesearch',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\linesearch.py',
+   'PYMODULE'),
+  ('scipy.optimize.minpack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\minpack.py',
+   'PYMODULE'),
+  ('scipy.optimize.minpack2',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\minpack2.py',
+   'PYMODULE'),
+  ('scipy.optimize.moduleTNC',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\moduleTNC.py',
+   'PYMODULE'),
+  ('scipy.optimize.nonlin',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\nonlin.py',
+   'PYMODULE'),
+  ('scipy.optimize.optimize',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\optimize.py',
+   'PYMODULE'),
+  ('scipy.optimize.slsqp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\slsqp.py',
+   'PYMODULE'),
+  ('scipy.optimize.tnc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\tnc.py',
+   'PYMODULE'),
+  ('scipy.optimize.zeros',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\optimize\\zeros.py',
+   'PYMODULE'),
+  ('scipy.sparse',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse._base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_base.py',
+   'PYMODULE'),
+  ('scipy.sparse._bsr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_bsr.py',
+   'PYMODULE'),
+  ('scipy.sparse._compressed',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_compressed.py',
+   'PYMODULE'),
+  ('scipy.sparse._construct',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_construct.py',
+   'PYMODULE'),
+  ('scipy.sparse._coo',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_coo.py',
+   'PYMODULE'),
+  ('scipy.sparse._csc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_csc.py',
+   'PYMODULE'),
+  ('scipy.sparse._csr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_csr.py',
+   'PYMODULE'),
+  ('scipy.sparse._data',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_data.py',
+   'PYMODULE'),
+  ('scipy.sparse._dia',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_dia.py',
+   'PYMODULE'),
+  ('scipy.sparse._dok',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_dok.py',
+   'PYMODULE'),
+  ('scipy.sparse._extract',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_extract.py',
+   'PYMODULE'),
+  ('scipy.sparse._index',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_index.py',
+   'PYMODULE'),
+  ('scipy.sparse._lil',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_lil.py',
+   'PYMODULE'),
+  ('scipy.sparse._matrix',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_matrix.py',
+   'PYMODULE'),
+  ('scipy.sparse._matrix_io',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_matrix_io.py',
+   'PYMODULE'),
+  ('scipy.sparse._spfuncs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_spfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse._sputils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\_sputils.py',
+   'PYMODULE'),
+  ('scipy.sparse.base',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\base.py',
+   'PYMODULE'),
+  ('scipy.sparse.bsr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\bsr.py',
+   'PYMODULE'),
+  ('scipy.sparse.compressed',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\compressed.py',
+   'PYMODULE'),
+  ('scipy.sparse.construct',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\construct.py',
+   'PYMODULE'),
+  ('scipy.sparse.coo',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\coo.py',
+   'PYMODULE'),
+  ('scipy.sparse.csc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\csc.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._laplacian',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_laplacian.py',
+   'PYMODULE'),
+  ('scipy.sparse.csgraph._validation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_validation.py',
+   'PYMODULE'),
+  ('scipy.sparse.csr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\csr.py',
+   'PYMODULE'),
+  ('scipy.sparse.data',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\data.py',
+   'PYMODULE'),
+  ('scipy.sparse.dia',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\dia.py',
+   'PYMODULE'),
+  ('scipy.sparse.dok',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\dok.py',
+   'PYMODULE'),
+  ('scipy.sparse.extract',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\extract.py',
+   'PYMODULE'),
+  ('scipy.sparse.lil',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\lil.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._dsolve',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._dsolve._add_newdocs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\_add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._dsolve.linsolve',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\linsolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen._svds',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\_svds.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.arpack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.arpack.arpack',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\arpack.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.lobpcg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._eigen.lobpcg.lobpcg',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\lobpcg\\lobpcg.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._expm_multiply',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_expm_multiply.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._interface',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_interface.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\__init__.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve._gcrotmk',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\_gcrotmk.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.iterative',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\iterative.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.lgmres',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lgmres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.lsmr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lsmr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.lsqr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\lsqr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.minres',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\minres.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.tfqmr',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\tfqmr.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._isolve.utils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_isolve\\utils.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._matfuncs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_matfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._norm',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_norm.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._onenormest',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_onenormest.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._propack', '-', 'PYMODULE'),
+  ('scipy.sparse.linalg._special_sparse_arrays',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_special_sparse_arrays.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg._svdp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_svdp.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.dsolve',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\dsolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.eigen',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\eigen.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.interface',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\interface.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.isolve',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\isolve.py',
+   'PYMODULE'),
+  ('scipy.sparse.linalg.matfuncs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\matfuncs.py',
+   'PYMODULE'),
+  ('scipy.sparse.sparsetools',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\sparsetools.py',
+   'PYMODULE'),
+  ('scipy.sparse.sputils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\sparse\\sputils.py',
+   'PYMODULE'),
+  ('scipy.spatial',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial._geometric_slerp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\_geometric_slerp.py',
+   'PYMODULE'),
+  ('scipy.spatial._kdtree',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\_kdtree.py',
+   'PYMODULE'),
+  ('scipy.spatial._plotutils',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\_plotutils.py',
+   'PYMODULE'),
+  ('scipy.spatial._procrustes',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\_procrustes.py',
+   'PYMODULE'),
+  ('scipy.spatial._spherical_voronoi',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\_spherical_voronoi.py',
+   'PYMODULE'),
+  ('scipy.spatial.ckdtree',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\ckdtree.py',
+   'PYMODULE'),
+  ('scipy.spatial.distance',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\distance.py',
+   'PYMODULE'),
+  ('scipy.spatial.kdtree',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\kdtree.py',
+   'PYMODULE'),
+  ('scipy.spatial.qhull',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\qhull.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\transform\\__init__.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform._rotation_groups',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation_groups.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform._rotation_spline',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation_spline.py',
+   'PYMODULE'),
+  ('scipy.spatial.transform.rotation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\spatial\\transform\\rotation.py',
+   'PYMODULE'),
+  ('scipy.special',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\__init__.py',
+   'PYMODULE'),
+  ('scipy.special._basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_basic.py',
+   'PYMODULE'),
+  ('scipy.special._ellip_harm',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_ellip_harm.py',
+   'PYMODULE'),
+  ('scipy.special._lambertw',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_lambertw.py',
+   'PYMODULE'),
+  ('scipy.special._logsumexp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_logsumexp.py',
+   'PYMODULE'),
+  ('scipy.special._orthogonal',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_orthogonal.py',
+   'PYMODULE'),
+  ('scipy.special._sf_error',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_sf_error.py',
+   'PYMODULE'),
+  ('scipy.special._spfun_stats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_spfun_stats.py',
+   'PYMODULE'),
+  ('scipy.special._spherical_bessel',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_spherical_bessel.py',
+   'PYMODULE'),
+  ('scipy.special._support_alternative_backends',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\_support_alternative_backends.py',
+   'PYMODULE'),
+  ('scipy.special.add_newdocs',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\add_newdocs.py',
+   'PYMODULE'),
+  ('scipy.special.basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\basic.py',
+   'PYMODULE'),
+  ('scipy.special.orthogonal',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\orthogonal.py',
+   'PYMODULE'),
+  ('scipy.special.sf_error',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\sf_error.py',
+   'PYMODULE'),
+  ('scipy.special.specfun',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\specfun.py',
+   'PYMODULE'),
+  ('scipy.special.spfun_stats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\special\\spfun_stats.py',
+   'PYMODULE'),
+  ('scipy.stats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._axis_nan_policy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_axis_nan_policy.py',
+   'PYMODULE'),
+  ('scipy.stats._binned_statistic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_binned_statistic.py',
+   'PYMODULE'),
+  ('scipy.stats._binomtest',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_binomtest.py',
+   'PYMODULE'),
+  ('scipy.stats._boost',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_boost\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._bws_test',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_bws_test.py',
+   'PYMODULE'),
+  ('scipy.stats._censored_data',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_censored_data.py',
+   'PYMODULE'),
+  ('scipy.stats._common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_common.py',
+   'PYMODULE'),
+  ('scipy.stats._constants',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_constants.py',
+   'PYMODULE'),
+  ('scipy.stats._continuous_distns',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_continuous_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._covariance',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_covariance.py',
+   'PYMODULE'),
+  ('scipy.stats._crosstab',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_crosstab.py',
+   'PYMODULE'),
+  ('scipy.stats._discrete_distns',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_discrete_distns.py',
+   'PYMODULE'),
+  ('scipy.stats._distn_infrastructure',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_distn_infrastructure.py',
+   'PYMODULE'),
+  ('scipy.stats._distr_params',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_distr_params.py',
+   'PYMODULE'),
+  ('scipy.stats._entropy',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_entropy.py',
+   'PYMODULE'),
+  ('scipy.stats._fit',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_fit.py',
+   'PYMODULE'),
+  ('scipy.stats._hypotests',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_hypotests.py',
+   'PYMODULE'),
+  ('scipy.stats._kde',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_kde.py',
+   'PYMODULE'),
+  ('scipy.stats._ksstats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_ksstats.py',
+   'PYMODULE'),
+  ('scipy.stats._levy_stable',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_levy_stable\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._mannwhitneyu',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_mannwhitneyu.py',
+   'PYMODULE'),
+  ('scipy.stats._morestats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_morestats.py',
+   'PYMODULE'),
+  ('scipy.stats._mstats_basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_mstats_basic.py',
+   'PYMODULE'),
+  ('scipy.stats._mstats_extras',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_mstats_extras.py',
+   'PYMODULE'),
+  ('scipy.stats._multicomp',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_multicomp.py',
+   'PYMODULE'),
+  ('scipy.stats._multivariate',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_multivariate.py',
+   'PYMODULE'),
+  ('scipy.stats._odds_ratio',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_odds_ratio.py',
+   'PYMODULE'),
+  ('scipy.stats._page_trend_test',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_page_trend_test.py',
+   'PYMODULE'),
+  ('scipy.stats._qmc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_qmc.py',
+   'PYMODULE'),
+  ('scipy.stats._qmvnt',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_qmvnt.py',
+   'PYMODULE'),
+  ('scipy.stats._rcont',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_rcont\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._relative_risk',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_relative_risk.py',
+   'PYMODULE'),
+  ('scipy.stats._resampling',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_resampling.py',
+   'PYMODULE'),
+  ('scipy.stats._rvs_sampling',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_rvs_sampling.py',
+   'PYMODULE'),
+  ('scipy.stats._sampling',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_sampling.py',
+   'PYMODULE'),
+  ('scipy.stats._sensitivity_analysis',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_sensitivity_analysis.py',
+   'PYMODULE'),
+  ('scipy.stats._stats_mstats_common',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_stats_mstats_common.py',
+   'PYMODULE'),
+  ('scipy.stats._stats_py',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_stats_py.py',
+   'PYMODULE'),
+  ('scipy.stats._survival',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_survival.py',
+   'PYMODULE'),
+  ('scipy.stats._tukeylambda_stats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_tukeylambda_stats.py',
+   'PYMODULE'),
+  ('scipy.stats._unuran',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_unuran\\__init__.py',
+   'PYMODULE'),
+  ('scipy.stats._variation',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_variation.py',
+   'PYMODULE'),
+  ('scipy.stats._warnings_errors',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\_warnings_errors.py',
+   'PYMODULE'),
+  ('scipy.stats.biasedurn',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\biasedurn.py',
+   'PYMODULE'),
+  ('scipy.stats.contingency',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\contingency.py',
+   'PYMODULE'),
+  ('scipy.stats.distributions',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\distributions.py',
+   'PYMODULE'),
+  ('scipy.stats.kde',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\kde.py',
+   'PYMODULE'),
+  ('scipy.stats.morestats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\morestats.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\mstats.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_basic',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\mstats_basic.py',
+   'PYMODULE'),
+  ('scipy.stats.mstats_extras',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\mstats_extras.py',
+   'PYMODULE'),
+  ('scipy.stats.mvn',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\mvn.py',
+   'PYMODULE'),
+  ('scipy.stats.qmc',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\qmc.py',
+   'PYMODULE'),
+  ('scipy.stats.sampling',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\sampling.py',
+   'PYMODULE'),
+  ('scipy.stats.stats',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\stats\\stats.py',
+   'PYMODULE'),
+  ('scipy.version',
+   'E:\\Папка рабочего '
+   'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\scipy\\version.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\sysconfig.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\typing.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipfile.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\misha\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\zipimport.py',
+   'PYMODULE')])
