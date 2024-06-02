@@ -39,8 +39,9 @@ def fill_optimization_func(product, d_model: dict, c_s, fill_func) -> dict:
     return d_model
 
 
-def fill_optimization_func_cost_frac(d_model: dict, transport: dict, product_name: str, transport_name: str, stock_name: str,
-                                need_name: str, row: int, column: int) -> dict:
+def fill_optimization_func_cost_frac(d_model: dict, transport: dict, product_name: str, transport_name: str,
+                                     stock_name: str,
+                                     need_name: str, row: int, column: int) -> dict:
     last_c_index = d_model['last_c_index']
     b_u = d_model['b_u']
     b_l = d_model['b_l']
@@ -82,8 +83,8 @@ def fill_optimization_func_cost_frac(d_model: dict, transport: dict, product_nam
 
 
 def fill_optimization_func_cost_whole(d_model: dict, transport: dict, product_name: str, transport_name: str,
-                                 stock_name: str,
-                                 need_name: str, row: int, column: int) -> dict:
+                                      stock_name: str,
+                                      need_name: str, row: int, column: int) -> dict:
     last_c_index = d_model['last_c_index']
     b_u = d_model['b_u']
     b_l = d_model['b_l']
@@ -122,8 +123,9 @@ def fill_optimization_func_cost_whole(d_model: dict, transport: dict, product_na
     return d_model
 
 
-def fill_optimization_func_time_frac(d_model: dict, transport: dict, product_name: str, transport_name: str, stock_name: str,
-                                need_name: str, row: int, column: int) -> dict:
+def fill_optimization_func_time_frac(d_model: dict, transport: dict, product_name: str, transport_name: str,
+                                     stock_name: str,
+                                     need_name: str, row: int, column: int) -> dict:
     last_c_index = d_model['last_c_index']
     b_u = d_model['b_u']
     b_l = d_model['b_l']
@@ -161,8 +163,8 @@ def fill_optimization_func_time_frac(d_model: dict, transport: dict, product_nam
 
 
 def fill_optimization_func_time_whole(d_model: dict, transport: dict, product_name: str, transport_name: str,
-                                 stock_name: str,
-                                 need_name: str, row: int, column: int) -> dict:
+                                      stock_name: str,
+                                      need_name: str, row: int, column: int) -> dict:
     last_c_index = d_model['last_c_index']
     b_u = d_model['b_u']
     b_l = d_model['b_l']
@@ -218,7 +220,7 @@ def fill_matrix_array_cost(product: dict, matrix_array: list[list[float]], d_mod
 
 
 def fill_matrix_array_cost_frac(matrix_array, v_index, c_index, product_name, transport_name, gk, time, stock_name,
-                           need_name, group, row, column, big_number=1000) -> list[list[float]]:
+                                need_name, group, row, column, big_number=1000) -> list[list[float]]:
     # print('product_name = ', matrix_array, ' stock_name = ', stock_name)
     i = c_index[f'c_a_{product_name}_{stock_name}']
     j_r = v_index[f"r_{product_name}_{transport_name}_{stock_name}_{need_name}"]
@@ -243,7 +245,7 @@ def fill_matrix_array_cost_frac(matrix_array, v_index, c_index, product_name, tr
 
 
 def fill_matrix_array_cost_whole(matrix_array, v_index, c_index, product_name, transport_name, gk, time, stock_name,
-                            need_name, group, row, column) -> list[list[float]]:
+                                 need_name, group, row, column) -> list[list[float]]:
     i = c_index[f'c_a_{product_name}_{stock_name}']
     j_r = v_index[f"r_{product_name}_{transport_name}_{stock_name}_{need_name}"]
     j_z = v_index[f'z_{product_name}_{transport_name}_{stock_name}_{need_name}']
@@ -281,14 +283,16 @@ def fill_matrix_array_time(product: dict, matrix_array: list[list[float]], d_mod
             stock_name = product['stocks'][row]['stock_name']
             for column in range(len(transport['cost'][0])):
                 if transport['cost'][row][column] != 'nan':
-                    matrix_array = fill_func(matrix_array, v_index, c_index, product_name, transport_name, cost, gk, time, calc_trips,
+                    matrix_array = fill_func(matrix_array, v_index, c_index, product_name, transport_name, cost, gk,
+                                             time, calc_trips,
                                              stock_name, product['needs'][column]['need_name'], product_group, row,
                                              column)
     return matrix_array
 
 
-def fill_matrix_array_time_frac(matrix_array, v_index, c_index, product_name, transport_name, cost, gk, time, calc_trips, stock_name,
-                           need_name, group, row, column, big_number=1000) -> list[list[float]]:
+def fill_matrix_array_time_frac(matrix_array, v_index, c_index, product_name, transport_name, cost, gk, time,
+                                calc_trips, stock_name,
+                                need_name, group, row, column, big_number=1000) -> list[list[float]]:
     # print('product_name = ', matrix_array, ' stock_name = ', stock_name)
     i = c_index[f'c_a_{product_name}_{stock_name}']
     j_r = v_index[f"r_{product_name}_{transport_name}_{stock_name}_{need_name}"]
@@ -318,8 +322,9 @@ def fill_matrix_array_time_frac(matrix_array, v_index, c_index, product_name, tr
     return matrix_array
 
 
-def fill_matrix_array_time_whole(matrix_array, v_index, c_index, product_name, transport_name, cost, gk, time, calc_trips, stock_name,
-                           need_name, group, row, column) -> list[list[float]]:
+def fill_matrix_array_time_whole(matrix_array, v_index, c_index, product_name, transport_name, cost, gk, time,
+                                 calc_trips, stock_name,
+                                 need_name, group, row, column) -> list[list[float]]:
     i = c_index[f'c_a_{product_name}_{stock_name}']
     j_r = v_index[f"r_{product_name}_{transport_name}_{stock_name}_{need_name}"]
     j_z = v_index[f'z_{product_name}_{transport_name}_{stock_name}_{need_name}']
@@ -372,7 +377,7 @@ def find_el_for_calc_cons(temp, prev_product_name, prev_transport_name, products
 def calc_cons_cost_values(c_cost, plan_list: list[dict], products_list):
     if plan_list != []:
         plan = plan_list[len(plan_list) - 1]
-        if plan['success'] and plan['opt_func']=='time':
+        if plan['success'] and plan['opt_func'] == 'time':
             var_values = plan['variables']
             v_index = plan['v_index']
             prev_product_name = ''
@@ -390,7 +395,8 @@ def calc_cons_cost_values(c_cost, plan_list: list[dict], products_list):
                         if res['transport']['calc_trips'][stock_index][need_index] == 1:
                             c_cost -= res['transport']['cost'][stock_index][need_index] * ceil(var_value)
                         else:
-                            c_cost -= res['transport']['cost'][stock_index][need_index] * res['transport']['gk'][stock_index][need_index] * var_value
+                            c_cost -= res['transport']['cost'][stock_index][need_index] * \
+                                      res['transport']['gk'][stock_index][need_index] * var_value
                     elif temp[0] == 'z':
                         res = find_el_for_calc_cons(temp, prev_product_name, prev_transport_name, products_list)
                         stock_index = res['stock_index']
@@ -403,8 +409,8 @@ def calc_cons_cost_values(c_cost, plan_list: list[dict], products_list):
 
 
 def calc_cons_time_values(c_s, plan_list: list[dict], products_list):
-    if plan_list!=[]:
-        plan = plan_list[len(plan_list)-1]
+    if plan_list != []:
+        plan = plan_list[len(plan_list) - 1]
         if plan['success']:
             var_values = plan['variables']
             v_index = plan['v_index']
@@ -420,15 +426,18 @@ def calc_cons_time_values(c_s, plan_list: list[dict], products_list):
                         var_value = var_values[i]
                         cons_name = f"c_s_{res['product']['group']}_{res['transport']['transport_name']}_{temp[3]}"
                         if c_s.get(cons_name) is None:
-                            c_s[cons_name] = res['product']['time'] - res['transport']['time'][res['stock_index']][res['need_index']] * ceil(var_value)
+                            c_s[cons_name] = res['product']['time'] - res['transport']['time'][res['stock_index']][
+                                res['need_index']] * ceil(var_value)
                         else:
-                            c_s[cons_name] -= res['transport']['time'][res['stock_index']][res['need_index']] * ceil(var_value)
+                            c_s[cons_name] -= res['transport']['time'][res['stock_index']][res['need_index']] * ceil(
+                                var_value)
                         if c_s[cons_name] < 0:
                             c_s[cons_name] = 0
     return c_s
 
 
 def is_number(s):
+    s = str(s)
     if re.match("^\d+?\.\d+?$", s) is None:
         return s.isdigit()
     return True
@@ -448,6 +457,7 @@ def solve_problem(data: dict) -> list[dict]:
     # print('plan_list = ', data['plan_list'])
     plan_list = []
     big_number = 1000
+    # big_number = np.inf
     cons_time_values = {}
     c_cost = 'nan'
     if is_number(data['max_cost']):
@@ -462,7 +472,8 @@ def solve_problem(data: dict) -> list[dict]:
             if plan['model'] == 'fractional':
                 # print('cost -> fractional')
                 def_optimization_func = fill_optimization_func_cost_frac
-                fill_matrix_array = partial(fill_matrix_array_cost, fill_func=partial(fill_matrix_array_cost_frac, big_number=big_number))
+                fill_matrix_array = partial(fill_matrix_array_cost,
+                                            fill_func=partial(fill_matrix_array_cost_frac, big_number=big_number))
                 # def_matrix_array = partial(fill_matrix_array_cost_frac, big_number=big_number)
             else:
                 # print('cost -> whole')
@@ -481,7 +492,7 @@ def solve_problem(data: dict) -> list[dict]:
                 if plan['model'] == 'fractional':
                     def_optimization_func = fill_optimization_func_time_frac
                     fill_matrix_array = partial(fill_matrix_array_time,
-                                            fill_func=partial(fill_matrix_array_time_frac, big_number=big_number))
+                                                fill_func=partial(fill_matrix_array_time_frac, big_number=big_number))
                 else:
                     def_optimization_func = fill_optimization_func_time_whole
                     fill_matrix_array = partial(fill_matrix_array_time, fill_func=fill_matrix_array_time_whole)
@@ -489,7 +500,8 @@ def solve_problem(data: dict) -> list[dict]:
                 # print('HEREEEEEEEEEEEEEEEE')
                 if plan['model'] == 'fractional':
                     def_optimization_func = fill_optimization_func_time_frac
-                    fill_matrix_array = partial(fill_matrix_array_cost, fill_func=partial(fill_matrix_array_cost_frac, big_number=big_number))
+                    fill_matrix_array = partial(fill_matrix_array_cost,
+                                                fill_func=partial(fill_matrix_array_cost_frac, big_number=big_number))
                 else:
                     def_optimization_func = fill_optimization_func_time_whole
                     fill_matrix_array = partial(fill_matrix_array_cost, fill_func=fill_matrix_array_cost_whole)
@@ -498,9 +510,10 @@ def solve_problem(data: dict) -> list[dict]:
         for name in plan['products_names']:
             product = [pr for pr in data['products_list'] if pr['product_name'] == name][0]
             # print('name = ',name, ' product = ', product)
-            d_model = fill_optimization_func(product, d_model, cons_time_values,  def_optimization_func)
+            d_model = fill_optimization_func(product, d_model, cons_time_values, def_optimization_func)
             for i in range(len(product['transport_list'][0]['cost'])):
                 stock = product['stocks'][i]
+                # print(d_model['last_c_index'], '  ', type(d_model['last_c_index']))
                 d_model['last_c_index'] += 1
                 d_model['c_index'][f"c_a_{product['product_name']}_{stock['stock_name']}"] = d_model['last_c_index']
                 d_model['b_u'].append(stock['value'])
@@ -543,7 +556,7 @@ def solve_problem(data: dict) -> list[dict]:
     return plan_list
 
 
-def convert_res(plan_list: list[dict], products_list: list[dict]) -> list[dict]:
+def convert_res(plan_list: list[dict], products_list: list[dict]) -> dict[str, list[dict]]:
     decimal_places = 3
     for plan in plan_list:
         if plan['success']:
@@ -589,10 +602,12 @@ def convert_res(plan_list: list[dict], products_list: list[dict]) -> list[dict]:
 
                         group = res['product']["group"]
                         if c_s.get(f'c_s_{group}_{transport_name}_{stock_name}') is None:
-                            c_s[f'c_s_{group}_{transport_name}_{stock_name}'] = transport['time'][stock_index][need_index] * ceil(
+                            c_s[f'c_s_{group}_{transport_name}_{stock_name}'] = transport['time'][stock_index][
+                                                                                    need_index] * ceil(
                                 var_value)
                         else:
-                            c_s[f'c_s_{group}_{transport_name}_{stock_name}'] += transport['time'][stock_index][need_index] * ceil(
+                            c_s[f'c_s_{group}_{transport_name}_{stock_name}'] += transport['time'][stock_index][
+                                                                                     need_index] * ceil(
                                 var_value)
 
                         unit = res['product']['unit']
@@ -631,7 +646,10 @@ def convert_res(plan_list: list[dict], products_list: list[dict]) -> list[dict]:
                             if transport['calc_trips'][stock_index][need_index] != 1:
                                 c_cost -= transport['cost'][stock_index][need_index] * var_value
 
+            plan['variables_count'] = len(var_values)
             plan['trips'] = var_list
+            plan['working_time'] = round(plan['working_time'], decimal_places)
+            plan['fun'] = round(plan['fun'], decimal_places)
             plan['c_a'] = c_a
             plan['c_b'] = c_b
             plan['c_s'] = c_s
@@ -669,7 +687,8 @@ def convert_res(plan_list: list[dict], products_list: list[dict]) -> list[dict]:
             plan['c_a'] = c_a
             plan['c_b'] = c_b
             plan['c_s'] = c_s
-    return plan_list
+    # print("plan_list = ", plan_list)
+    return {"plan_list": plan_list}
 
 
 # script_name, first = argv
@@ -678,11 +697,10 @@ def convert_res(plan_list: list[dict], products_list: list[dict]) -> list[dict]:
 # print("model = ", model)
 
 # Открываем файл для чтения
-# path_to_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_data\\module_input_data_5x12.json"
-# path_to_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_data\\module_input_data_2x2.json"
-path_to_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_data\\module_input_data_2x2.json"
+path_to_input_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_data\\module_input_data_2x2.json"
+path_to_save_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_output_data\\module_output_data.json"
 
-with open(path_to_data, 'r', encoding='utf-8') as file:
+with open(path_to_input_data, 'r', encoding='utf-8') as file:
     # Загружаем содержимое файла в переменную
     data = json.load(file)
 
@@ -693,9 +711,12 @@ with open(path_to_data, 'r', encoding='utf-8') as file:
 plan_list = solve_problem(data)
 # print(plan_list)
 res = convert_res(plan_list, data['products_list'])
-for k,v in res[0].items():
+for k, v in res['plan_list'][0].items():
     print(f'{k} = ', v)
 print(res)
+
+with open(path_to_save_data, 'w', encoding='utf-8') as f:
+    json.dump(res, f, ensure_ascii=False, indent=4)
 # print('res[0] = ', res[0])
 # print('res[1] = ', res[1])
 # print('res[1]["c_s"] = ', res[1]['c_s'])
@@ -703,3 +724,6 @@ print(res)
 # print('res[1]["c_b"] = ', res[1]['c_b'])
 # print('res[1]["c_cost"] = ', res[1]['c_cost'])
 # print('res[0]["c_cost"] = ', res[0]['c_cost'])
+
+
+
