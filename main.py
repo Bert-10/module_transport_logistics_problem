@@ -691,29 +691,25 @@ def convert_res(plan_list: list[dict], products_list: list[dict]) -> dict[str, l
     return {"plan_list": plan_list}
 
 
-# script_name, first = argv
+script_name, path_to_input_data, path_to_save_data = argv
 # print("script_name: ", script_name)
 # print("first variable type: ", type(first), ' variable: ', first)
 # print("model = ", model)
 
 # Открываем файл для чтения
-path_to_input_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_data\\module_input_data_2x2.json"
-path_to_save_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_output_data\\module_output_data.json"
+# path_to_input_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_data\\module_input_data_2x2.json"
+# path_to_save_data = "E:\\Папка рабочего стола\\VScodeProjects\\vkr_js\\module_output_data\\module_output_data.json"
 
 with open(path_to_input_data, 'r', encoding='utf-8') as file:
     # Загружаем содержимое файла в переменную
     data = json.load(file)
 
-# for k,v in data['products_list'][0]['transport_list'][0].items():
-#     print(f'{k} = ', v)
-# print(data['products_list'][0])
-# print(data['plan_list'][0])
+
 plan_list = solve_problem(data)
-# print(plan_list)
 res = convert_res(plan_list, data['products_list'])
-for k, v in res['plan_list'][0].items():
-    print(f'{k} = ', v)
-print(res)
+# for k, v in res['plan_list'][0].items():
+#     print(f'{k} = ', v)
+# print(res)
 
 with open(path_to_save_data, 'w', encoding='utf-8') as f:
     json.dump(res, f, ensure_ascii=False, indent=4)
@@ -724,6 +720,3 @@ with open(path_to_save_data, 'w', encoding='utf-8') as f:
 # print('res[1]["c_b"] = ', res[1]['c_b'])
 # print('res[1]["c_cost"] = ', res[1]['c_cost'])
 # print('res[0]["c_cost"] = ', res[0]['c_cost'])
-
-
-

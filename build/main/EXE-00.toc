@@ -584,7 +584,7 @@
  [],
  False,
  False,
- 1709525636,
+ 1717418893,
  [('run.exe',
    'E:\\Папка рабочего '
    'стола\\pyCharmProjects\\connect_solver_by_pulp\\venv\\Lib\\site-packages\\PyInstaller\\bootloader\\Windows-64bit-intel\\run.exe',
